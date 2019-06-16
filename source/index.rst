@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-文档代码化开发研修班学员心得体会
+2019CAS Training
 =======================================
 
 .. toctree::
@@ -21,7 +21,7 @@
    1-People/zhangshengrui.md
    1-People/zhaojing.md
    2-Stories/chenyu.rst
-   2-Stories/helloworld.md
+   2-Stories/helloworld.md	
    
    
 .. toctree::
